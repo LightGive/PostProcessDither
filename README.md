@@ -1,0 +1,2 @@
+# URP_PostProcess_Dither
+UnityのURPで使えるディザー効果のポストプロセス
