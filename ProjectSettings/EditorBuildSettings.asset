@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/LightGive/PostProcess/Example/Example.unity
     guid: f69c463be1dd34847839a746b53ddc2e
   m_configObjects: {}
