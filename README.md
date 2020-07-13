@@ -9,3 +9,6 @@ Unity 2019.4.1f1
 ![normal](https://raw.github.com/wiki/LightGive/URP_PostProcess_Dither/images/Normal.gif)
 ### After
 ![dither](https://raw.github.com/wiki/LightGive/URP_PostProcess_Dither/images/Dither.gif)
+
+## License
+MIT
