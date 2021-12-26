@@ -1,0 +1,21 @@
+{
+  "name": "jp.lightgive.postprocess.dither",
+  "version": "1.0.0",
+  "displayName": "PostProcessDither",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "10.7.0"
+  },
+  "unity": "2020.3",
+  "unityRelease": "22f1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "LightGive",
+    "email": "roi.akase@outlook.jp",
+    "url": "https://github.com/LightGive"
+  },
+  "hideInEditor": false
+}
